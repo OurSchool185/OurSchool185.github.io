@@ -22,9 +22,12 @@ p {
 	line-height: 1.3em;
 }
 
+img {
+	width: 100%;
+}
 /*Header*/
 .header {
-	padding: 50px 0;
+	padding: 10px 0;
 	background-color: yellowgreen;
 }
 .header h1,
